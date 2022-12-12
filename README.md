@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Tnfix
-- 👀 I’m interested in tech,
+- 👋 Hi, I’m @Deo_Ekodi
+- 👀 Tech Merchant to be,
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me send email to deogratiusekodi@gmail.com
